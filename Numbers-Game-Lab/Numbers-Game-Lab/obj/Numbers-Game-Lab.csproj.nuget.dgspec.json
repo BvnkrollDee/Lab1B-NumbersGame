@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/Numbers-Game-Lab.csproj": {}
+  },
+  "projects": {
+    "/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/Numbers-Game-Lab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/Numbers-Game-Lab.csproj",
+        "projectName": "Numbers-Game-Lab",
+        "projectPath": "/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/Numbers-Game-Lab.csproj",
+        "packagesPath": "/Users/bvnkrolldee/.nuget/packages/",
+        "outputPath": "/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bvnkrolldee/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

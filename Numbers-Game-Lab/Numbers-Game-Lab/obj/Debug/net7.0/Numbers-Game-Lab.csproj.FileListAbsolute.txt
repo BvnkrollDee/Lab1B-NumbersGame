@@ -1,0 +1,15 @@
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.csproj.AssemblyReference.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.AssemblyInfoInputs.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.AssemblyInfo.cs
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.csproj.CoreCompileInputs.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/bin/Debug/net7.0/Numbers-Game-Lab
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/bin/Debug/net7.0/Numbers-Game-Lab.deps.json
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/bin/Debug/net7.0/Numbers-Game-Lab.runtimeconfig.json
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/bin/Debug/net7.0/Numbers-Game-Lab.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/bin/Debug/net7.0/Numbers-Game-Lab.pdb
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/refint/Numbers-Game-Lab.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.pdb
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/Numbers-Game-Lab.genruntimeconfig.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Lab1B-NumbersGame/Numbers-Game-Lab/Numbers-Game-Lab/obj/Debug/net7.0/ref/Numbers-Game-Lab.dll
