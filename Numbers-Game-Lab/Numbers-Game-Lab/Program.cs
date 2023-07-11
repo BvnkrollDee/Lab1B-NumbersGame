@@ -55,6 +55,9 @@ static int GetSum(int[] array)
         Console.WriteLine("Pick a number between 1 and {0}", array.Length);
         string userInput = Console.ReadLine();
         int randomIndexInt = Int32.Parse(userInput) - 1;
+        if (randomIndexInt > array.Length) {
+            throw new Exception("Out of Range");
+        }
         int randomNumber = array[randomIndexInt];
         Console.WriteLine("Random number is {0}", randomNumber);
         // multiply the sum and the random number.
@@ -69,11 +72,12 @@ static int GetSum(int[] array)
         // prompt user for number to divide product by
 
         Console.WriteLine("Give me a number to divide the product by");
-        Console.ReadLine();
-
         string userInput = Console.ReadLine();
         int divisor = Int32.Parse(userInput);
         decimal quotient = product / divisor;
+        if(divisor == 0) {
+            throw new Exception(" yabba dabba dooo");
+        }
         Console.Write("This is the quotient: {0}", quotient);
 
         return 0;
